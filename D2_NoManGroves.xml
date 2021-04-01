@@ -1,0 +1,22 @@
+<root>
+	<tymod name="No Man Groves Refreshed" version="0.1.0" tyversion="" authors="NotSoCheezy" description="The second Earth opal level, now available to the public after 20 years!">
+		<!-- Add custom map from CustomMap0 directory. Path must be relative. -->
+		<level directory="NoManGroves/" name="No Man Groves">
+			<!-- Name of map in each supported language -->
+			<translation>
+				<english>No Man Groves</english>
+				<spanish>No Man Groves</spanish>
+				<german>No Man Groves</german>
+				<french>No Man Groves</french>
+				<italian>No Man Groves</italian>
+			</translation>
+
+			<!-- Position of portal in Rainbow Cliffs -->
+			<portal>
+				<x>100</x>
+				<y>2378</y>
+				<z>3994</z>
+			</portal>
+		</level>
+	</tymod>
+</root>
